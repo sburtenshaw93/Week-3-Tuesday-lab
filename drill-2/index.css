@@ -1,0 +1,62 @@
+.main{
+    display: flex;
+    border: solid 5px black;
+    
+
+}
+.rectangle {
+    height: 100px;
+    width: 50px;
+    background-color: rgb(127,50,218);
+    display:inline-block;
+    margin: 10px;
+    border-width: 10px;
+}
+.square{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(69, 137, 51);
+    display: inline-block;
+    margin: 10px;
+}
+.dot {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(151, 204, 232);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+}
+
+.rectang {
+    height: 100px;
+    width: 98%;
+    margin: 10px;
+    border: dotted;
+    display: inline-block;
+    
+    
+}
+.notepad{
+    background-color: rgb(254, 250, 210);
+    height: 50px;
+    width: 92%;
+    margin-left: 70px;
+    margin-top: 25px;
+    box-shadow: 10px 10px 5px black;
+
+}
+h3{
+    text-align: center;
+    color: rgb(0, 0, 123);
+    font-size: xx-large;
+    
+    
+}
+.hello-friends-wrapper {
+    border: groove;
+    height: 180px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 40px;
+}

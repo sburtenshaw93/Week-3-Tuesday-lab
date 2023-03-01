@@ -1,0 +1,49 @@
+html{
+    height: 150%;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+}
+.main{
+  height: 10%;
+}
+.square{
+    background-color: rgb(103, 142, 214);
+    height: 53px;
+    width: 53px;
+    margin-top: 2.5%;
+    margin-left: 2.5%;
+
+}
+.rectang{
+    background-color: rgb(216, 216, 216);
+    height: 10%;
+    width: 100%;
+    position: fixed;
+
+}
+.text-section {
+    height: 20%;
+}
+.rec {
+    height: 17.5%;
+    width: 100%;
+}
+.rectangle-1 {
+    background-color: rgb(103, 142, 214);
+
+}
+.rectangle-2 {
+    background-color: rgb(148, 222, 196);
+
+}
+.rectangle-3 {
+    background-color: rgb(201, 230, 154);
+
+}
+.rectangle-4 {
+    background-color: rgb(243, 231, 108);
+
+}
